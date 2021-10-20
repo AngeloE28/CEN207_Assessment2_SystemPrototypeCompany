@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "spToUcqmv7YFOjRNI7gHgpwNYkIqU3q+zlhvEJ7dlas5WUd5wUWq3kTm0KrZZrjq78rLyk0deCpuocn/t2Htug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angelo Estoque\\Desktop\\torrens\\yr2\\t3\\CEN207\\Ass\\Ass2\\CEN207_Assessment2_SystemPrototypeCompany\\CEN207_Assessment2_SystemPrototypeCompany\\CEN207_Assessment2_SystemPrototypeCompany.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angelo Estoque\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Angelo Estoque\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Angelo Estoque\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
